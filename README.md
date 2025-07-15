@@ -1,76 +1,83 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Olá Mundo</h1></summary>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=524&lines=Bem-vindo+ao+meu+perfil!" alt="Typing SVG">
+  </a>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroJuanAFK&theme=dark&background=000000" alt="GitHub Streak"/>
+<img align="center" alt="" src="./src/header-gif.gif">
+
+#
+
+<p align="center">Olá 👋, sou o Pedro Juan!
+  <br>
+  Atualmente, estou cursando o 3º período de **Análise e Desenvolvimento de Sistemas (ADS)** na **Faculdade Senac**, tendo ingressado através do programa **Embarque Digital** em parceria com o **Banco Santander**.
+  <br>
+  Estou procurando minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com **desenvolvimento back-end** com um forte foco em **cibersegurança** e **gerenciamento de banco de dados**.
 </p>
 
-<p>
-  Olá 👋, sou o Pedro Juan!
+#
 
-  - 🌱 Atualmente, estou cursando o 3º período de **Análise e Desenvolvimento de Sistemas (ADS)** na **Faculdade Senac**, tendo ingressado através do programa **Embarque Digital** em parceria com o **Banco Santander**.
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
-  - 🔭 Estou procurando minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com **desenvolvimento back-end** com um forte foco em **cibersegurança** e **gerenciamento de banco de dados**.
-</p>
+<h3 align="left">Conecte-se comigo!</h3>
 
-<details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00FF00&color:FFF)](mailto:SEU_EMAIL_AQUI@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF00&color:FFF)](https://www.linkedin.com/in/pedro-juan-409112348/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=00FF00&color:FFF)](https://github.com/PedroJuanAFK)
 
-  - 💬 Atualmente, estou imerso em **Python, JavaScript e SQL**. Estou aprofundando ativamente meus conhecimentos nessas tecnologias, sempre buscando novas ferramentas e melhores práticas, especialmente nos domínios de cibersegurança e soluções de banco de dados.
 
-  - ⚡ Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas. \o/
-</details>
+<h3 align="left">Minhas Habilidades ~</h3>
 
----
-
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-juan-409112348/)
-</p>
-
----
-
-<p align="center">
-  ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroJuanAFK&show_icons=true&theme=gotham)
-</p>
-
----
-
-## Portfólio:
-- [**Arteiros**](https://github.com/PedroJuanAFK/Arteiros-1) - Front-end de um sistema de ponto.
-- [**Banco de dados**](https://github.com/PedroJuanAFK/BancoDeDados-2) - Meus primeiros exercícios feitos para entrega na faculdade.
-- [**Portifolio**](https://github.com/PedroJuanAFK/portfolio-3) - Front-end do meu portfólio, em criação...
-
-<p align="left">
-  <img align="center" src="URL_DO_SEU_GIF.gif" alt="Imagem">
-</p>
-
----
-
-## 🔥 Habilidades
-
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <div style="flex-basis: 48%;">
-    <h3>Linguagens de Programação</h3>
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<div style="display: flex; flex-direction: column; gap: 20px;">
+  <div>
+    <h4>Linguagens de Programação</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="JavaScript" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3" />
   </div>
-  
-  <div style="flex-basis: 48%;">
-    <h3>Ferramentas & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+
+  <div>
+    <h4>Banco de Dados</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="MySQL" />
   </div>
-  
-  <div style="flex-basis: 48%;">
-    <h3>Bibliotecas</h3>
-    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </div>
+
+  <div>
+    <h4>Frameworks & Bibliotecas</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="React" />
+    </div>
+
+  <div>
+    <h4>Ferramentas & Design</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="Figma" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="25" alt="Photoshop" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="Git" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="VS Code" />
+    </div>
 </div>
+
+#
+
+<div style="text-align: center;" align="center">
+  <h3>* Estatísticas do GitHub *</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PedroJuanAFK&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=00FF00&text_color=FFF&border_radius=3&border_color=008000&icon_color=00FF00&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/PedroJuanAFK/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PedroJuanAFK&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00FF00&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=008000&count_private=true" alt="Linguagens Mais Usadas">
+  </a>
+</div>
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroJuanAFK/PedroJuanAFK/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroJuanAFK/PedroJuanAFK/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="Animação da cobra do grid de contribuição do GitHub" src="https://raw.githubusercontent.com/PedroJuanAFK/PedroJuanAFK/output/github-contribution-grid-snake.svg">
+</picture>
