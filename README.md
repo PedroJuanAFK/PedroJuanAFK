@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" alt="" height="190px" src="./src/imagem github2.png">
+<img align="right" alt="" height="400px" src="./src/imagem github2.png">
 
 ### Conecte-se comigo!
 
@@ -63,6 +63,22 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="VS Code" />
   </div>
 </div>
+
+---
+
+### Meus Portfólios
+
+<p align="center">
+  <a href="LINK_DO_SEU_PORTFOLIO_1" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio%201-000?style=for-the-badge&logoColor=00FF00&color:FFF" alt="Portfólio 1">
+  </a>
+  <a href="LINK_DO_SEU_PORTFOLIO_2" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio%202-000?style=for-the-badge&logoColor=00FF00&color:FFF" alt="Portfólio 2">
+  </a>
+  <a href="LINK_DO_SEU_PORTFOLIO_3" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio%203-000?style=for-the-badge&logoColor=00FF00&color:FFF" alt="Portfólio 3">
+  </a>
+</p>
 
 ---
 
