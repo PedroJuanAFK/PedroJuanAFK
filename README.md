@@ -23,7 +23,7 @@
 ### Conecte-se comigo!
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00FF00&color:FFF)](mailto:pedrojuanaluno22@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF00&color:FFF)](https://www.linkedin.com/in/pedro-juan-409112348/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF00&color:FFF)](https://www.linkedin.com/in/pedrojuanafk/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=00FF00&color:FFF)](https://github.com/PedroJuanAFK)
 
 ### Minhas Habilidades ~
@@ -32,10 +32,6 @@
   <div>
     <h4>Linguagens de Programação</h4>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="JavaScript" />
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="Java" />
     <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" alt="C#" />
   </div>
