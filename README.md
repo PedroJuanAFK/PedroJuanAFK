@@ -7,12 +7,13 @@
 <img align="center" alt="" src="./src/Banner linkedin.gif">
 
 ---
-
 <p align="center">Olá 👋, sou o Pedro Juan!
   <br>
-  Atualmente, estou cursando o 3º período de **Análise e Desenvolvimento de Sistemas (ADS)** na **Faculdade Senac**, tendo ingressado através do programa **Embarque Digital** em parceria com o **Banco Santander**.
+  Atualmente, estou cursando o 3º período de Análise e Desenvolvimento de Sistemas (ADS) na Faculdade Senac, tendo ingressado através do programa Embarque Digital em parceria com o Banco Santander.
   <br>
-  Estou procurando minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com **desenvolvimento back-end** com um forte foco em **cibersegurança** e **gerenciamento de banco de dados**.
+  Atualmente, estou focado em desenvolver na plataforma .NET e na linguagem C#.
+  <br>
+  Estou procurando minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com desenvolvimento back-end com um forte foco em cibersegurança e gerenciamento de banco de dados.
 </p>
 
 ---
